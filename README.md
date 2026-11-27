@@ -1,2 +1,2 @@
-SMS-Dual-SIM-kivy
+SMS_Dual_SIM_Kivy.
 envoi des S
