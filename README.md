@@ -1,2 +1,2 @@
 SMS-Dual-SIM.
-envoi des SMS 
+envoi des S
